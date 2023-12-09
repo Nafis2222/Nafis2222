@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 
 ## Current Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nafis2222&theme=prussian&border_radius=9.5&type=png)](https://git.io/streak-stats)
+<p>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nafis2222&theme=prussian&border_radius=9.5&type=png)](https://git.io/streak-stats)
+</p>
