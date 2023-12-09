@@ -11,13 +11,12 @@
 
 Here are some ideas to get you started:
 
-**- 🔭 I’m currently working on ... /**
+- 🔭 I’m currently craeting a multidimentional project which will be added into my resume very soon.
 - 🌱 I’m currently learning Next.js
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for solving critical problem
 - 💬 Ask me about my experience, Projects etc
 - 📫 How to reach me:  By my gmail, facebook, Linkdin
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love take break from work by seeing some funny series
 
 ## Reach Me Out
 
