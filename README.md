@@ -7,14 +7,7 @@
 
 
 
-## Current Overview
 
-- 🔭 I’m currently craeting a multidimentional project which will be added into my resume very soon.
-- 🌱 I’m currently learning Next.js
-- 🤔 I’m looking for solving critical problem
-- 💬 Ask me about my experience, Projects etc
-- 📫 How to reach me:  By my gmail, facebook, Linkdin
-- ⚡ Fun fact: I love take break from work by seeing some funny series
 
 ## Reach Me Out
 
@@ -33,4 +26,15 @@
 ## Technologies that a know
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vercel,tailwind,firebase,nodejs,figma&theme=light)](https://skillicons.dev)
+
+
+
+## Current Overview
+
+- 🔭 I’m currently craeting a multidimentional project which will be added into my resume very soon.
+- 🌱 I’m currently learning Next.js
+- 🤔 I’m looking for solving critical problem
+- 💬 Ask me about my experience, Projects etc
+- 📫 How to reach me:  By my gmail, facebook, Linkdin
+- ⚡ Fun fact: I love take break from work by seeing some funny series
 
