@@ -1,4 +1,5 @@
-### <img className="w-full h-80" src="https://i.ibb.co/Ld8xzWc/403399841-380655464395930-701471385419477229-n.jpg"/>
+### Hi , I am Md. Nafis Ikbal Bhuiyan 
+<img className="w-full h-80" src="https://i.ibb.co/Ld8xzWc/403399841-380655464395930-701471385419477229-n.jpg"/>
 
 
 ## Current Stats
@@ -35,7 +36,7 @@
 
 ## Current Overview
 
-- 🔭 I’m currently craeting a multidimentional project which will be added into my resume very soon.
+- 🔭 I’m currently study at University Of Dhaka.
 - 🌱 I’m currently learning Next.js
 - 🤔 I’m looking for solving critical problem
 - 💬 Ask me about my experience, Projects etc
