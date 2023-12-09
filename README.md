@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## Current Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nafis2222&theme=prussian&border_radius=9.5&mode=weekly)](https://git.io/streak-stats)
