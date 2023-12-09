@@ -18,15 +18,12 @@
 </div>
 
 
-[![My Skills](https://skillicons.dev/icons?i=facebook,twiter)](https://skillicons.dev)
 
 
 
 
 
-<a href="https://githubtrends.io">
-  <img align="center" src="https://api.githubtrends.io/user/svg/avgupta456/langs" />
-</a>
+
 
 
 
