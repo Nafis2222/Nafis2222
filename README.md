@@ -32,5 +32,5 @@
 
 ## Technologies that a know
 
-[![My Skills](https://skillicons.dev/icons?i=javaScript,html,css,react,vercel,tailwind,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vercel,tailwind,nodejs,figma&theme=light)](https://skillicons.dev)
 
