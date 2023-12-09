@@ -28,3 +28,9 @@
   <img align="center" src="https://api.githubtrends.io/user/svg/avgupta456/langs" />
 </a>
 
+
+
+## Technologies that a know
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
