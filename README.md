@@ -1,4 +1,4 @@
-### <img src="https://i.ibb.co/Ld8xzWc/403399841-380655464395930-701471385419477229-n.jpg"/>
+### <img className="w-full h-80" src="https://i.ibb.co/Ld8xzWc/403399841-380655464395930-701471385419477229-n.jpg"/>
 
 **Nafis2222/Nafis2222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
