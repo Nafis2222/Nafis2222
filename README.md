@@ -22,6 +22,4 @@
 <a href="https://githubtrends.io">
   <img align="center" src="https://api.githubtrends.io/user/svg/avgupta456/langs" />
 </a>
-<a href="https://githubtrends.io">
-  <img align="center" src="https://api.githubtrends.io/user/svg/avgupta456/repos" />
-</a>
+
