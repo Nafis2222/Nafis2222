@@ -18,7 +18,7 @@
 </div>
 
 
-[![My Skills](https://skillicons.dev/icons?i=facebook)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=facebook,twiter)](https://skillicons.dev)
 
 
 
