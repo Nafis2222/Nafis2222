@@ -12,6 +12,12 @@
 ## Reach Me Out
 
 
+<div classname="flex justify-around">
+  <img classname="w-32 h-32 rounded-full" src="https://i.ibb.co/6Rc7025/download-23.jpg"/>
+    <img classname="w-32 h-32 rounded-full" src="[https://i.ibb.co/6Rc7025/download-23.jpg](https://i.ibb.co/g4SD1vQ/images-5.png)"/>
+</div>
+
+
 
 
 
