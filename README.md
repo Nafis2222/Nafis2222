@@ -13,7 +13,7 @@
 
 
 <div classname="flex justify-around">
-  <img classname="w-24 h-24 rounded-full" src="https://i.ibb.co/6Rc7025/download-23.jpg"/>
+  <a href="https://www.facebook.com/nafis.bhuiyan.17529/"><img classname="w-24 h-24 rounded-full" src="https://i.ibb.co/6Rc7025/download-23.jpg"/></a>
   <img classname="w-32 h-32 rounded-full" src="https://i.ibb.co/g4SD1vQ/images-5.png"/>
 </div>
 
