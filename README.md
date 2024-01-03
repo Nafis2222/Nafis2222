@@ -1,5 +1,4 @@
 ### Hi , I am Md. Nafis Ikbal Bhuiyan 
-<img className="w-full h-80" src="https://i.ibb.co/Ld8xzWc/403399841-380655464395930-701471385419477229-n.jpg"/>
 
 
 ## Current Stats
