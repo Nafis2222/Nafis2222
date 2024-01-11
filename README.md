@@ -5,9 +5,8 @@
 
 
 
-<p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Nafis2222"/></a>
-</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nafis2222&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 
 
 ## Reach Me Out
