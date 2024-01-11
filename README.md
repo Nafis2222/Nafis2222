@@ -3,7 +3,7 @@
 
 ## Current Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nafis2222&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 
 ## Reach Me Out
 
